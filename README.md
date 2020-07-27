@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **full stack developer** :technologist:
+## I am **full stack developer** :technologist:
 - 🔭 I’m currently working on a **Internship Project**
 - 🌱 I’m currently learning : **ReactJS**
 - 👯 I’m looking to collaborate on : Javscript ,ReactJS web Apps  . 
