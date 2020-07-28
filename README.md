@@ -7,4 +7,3 @@
 - 💬 Ask me about - ReactJs , ReactNative , Javscript , 
 - 📫 How to reach me: sonu4dragon@gmail.com
 - 😄 Pronouns: **jadu** :alien:
-- ⚡ Fun fact: introvert :fire:
